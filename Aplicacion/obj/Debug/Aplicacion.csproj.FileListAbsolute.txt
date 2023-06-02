@@ -1,0 +1,8 @@
+c:\users\servidor\documents\visual studio 2012\Projects\Aplicacion\Aplicacion\bin\Debug\Aplicacion.exe.config
+c:\users\servidor\documents\visual studio 2012\Projects\Aplicacion\Aplicacion\obj\Debug\Aplicacion.csprojResolveAssemblyReference.cache
+c:\users\servidor\documents\visual studio 2012\Projects\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Form1.resources
+c:\users\servidor\documents\visual studio 2012\Projects\Aplicacion\Aplicacion\obj\Debug\Aplicacion.FormUsers.resources
+c:\users\servidor\documents\visual studio 2012\Projects\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Inventario.resources
+c:\users\servidor\documents\visual studio 2012\Projects\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Properties.Resources.resources
+c:\users\servidor\documents\visual studio 2012\Projects\Aplicacion\Aplicacion\obj\Debug\Aplicacion.Ventana.resources
+c:\users\servidor\documents\visual studio 2012\Projects\Aplicacion\Aplicacion\obj\Debug\Aplicacion.csproj.GenerateResource.Cache
